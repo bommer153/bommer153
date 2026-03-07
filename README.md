@@ -26,10 +26,10 @@
 
 | Skill         | Progress                                    |    SP    |
 |---------------|---------------------------------------------|----------|
-| React         | 🟦🟦🟦🟦🟦🟦🟦⬛⬛⬛ `7/10`           | `[+]`    |
-| Laravel       | 🟥🟥🟥🟥🟥🟥🟥🟥⬛⬛ `8/10`           | `[+]`    |
-| TypeScript    | 🟪🟪🟪🟪🟪🟪🟪⬛⬛⬛ `7/10`           | `[+]`    |
-| TailwindCSS   | 🟩🟩🟩🟩🟩🟩🟩⬛⬛⬛ `7/10`           | `[+]`    |
+| React         | 🟦🟦🟦🟦🟦🟦⬛⬛⬛⬛ `6/10`           | `[+]`    |
+| Laravel       | 🟥🟥🟥🟥🟥🟥🟥⬛⬛⬛ `7/10`           | `[+]`    |
+| TypeScript    | 🟪🟪🟪🟪🟪🟪⬛⬛⬛⬛ `6/10`           | `[+]`    |
+| TailwindCSS   | 🟩🟩🟩🟩🟩🟩⬛⬛⬛⬛ `6/10`           | `[+]`    |
 | CSS Alignment | ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛ `0/10`           | `[+]`    |
 
 > 🎯 Skill Points Available: **`[ SP: 999 ]`** *(still won't help CSS Alignment)*
@@ -62,9 +62,9 @@
 | Boss | HP | Status |
 |---|---|---|
 | CSS Alignment | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 `10/10` | 💀 Still Alive |
-| Merge Conflicts | 🟥🟥🟥🟥🟥🟨🟨⬛⬛⬛ `7/10` | 🩸 Bleeding |
+| Merge Conflicts | 🟥🟥🟥🟥🟥🟥🟥⬛⬛⬛ `7/10` | 🩸 Bleeding |
 | Production Bugs | 🟥🟥🟥🟥🟥⬛⬛⬛⬛⬛ `5/10` | ⚔️ Taking damage |
-| "Works on my machine" | 🟥🟥🟥🟥🟥🟦🟦🟦🟦 `∞/∞` | 👹 UNKILLABLE |
+| "Works on my machine" | 🟥🟥🟥🟥🟥🟥🟥🟥🟥 `∞/∞` | 👹 UNKILLABLE |
 
 ---
 
