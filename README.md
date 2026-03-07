@@ -19,27 +19,6 @@
 
 ---
 
-## 🧑‍💻 Boot Sequence
-
-```bash
-$ init Jax.exe
-
-> Loading developer profile...
-> ██████████░░░░░░░░░░ 50%
-
-[ ✔ ] React + TypeScript ....... MAIN WEAPONS 🗡️
-[ ✔ ] TailwindCSS .............. loaded
-[ ✔ ] PHP/Laravel .............. secondary
-[ ✔ ] Node.js / Express ........ loaded
-[ ✔ ] MySQL / MongoDB .......... loaded
-[ ✘ ] CSS Flexbox alignment .... still figuring it out
-[ ✔ ] Git ...................... (please don't break production)
-
-> Status: Debugging life 🧠
-```
-
----
-
 ## ⚔️ Skill Tree — *Currently Grinding*
 
 | Skill | Weapon | Level |
@@ -84,9 +63,9 @@ $ init Jax.exe
 
 | Boss | HP | Status |
 |---|---|---|
-| CSS Alignment         | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 `10/10` | 💀 Still Alive |
-| Merge Conflicts       | 🟥🟥🟥🟥🟥🟥⬛⬛⬛⬛ `7/10` | 🩸 Bleeding |
-| Production Bugs       | 🟥🟥🟥🟥🟥⬛⬛⬛⬛⬛ `5/10` | ⚔️ Taking damage |
+| CSS Alignment | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 `10/10` | 💀 Still Alive |
+| Merge Conflicts | 🟥🟥🟥🟥🟥🟥🟥⬛⬛⬛ `7/10` | 🩸 Bleeding |
+| Production Bugs | 🟥🟥🟥🟥🟥⬛⬛⬛⬛⬛ `5/10` | ⚔️ Taking damage |
 | "Works on my machine" | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 `∞/∞` | 👹 UNKILLABLE |
 
 ---
