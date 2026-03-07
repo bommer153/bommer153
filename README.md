@@ -64,10 +64,10 @@
 
 | Boss | HP | Status |
 |:---:|:---:|:---:|
-| CSS Alignment | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 `10/10` | 💀 Still Alive |
+| CSS Alignment | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 `∞/∞` | 💀 👹 UNKILLABLE |
 | Merge Conflicts | 🟥🟥🟥🟥🟥🟥🟥⬛⬛⬛ `7/10` | 🩸 Bleeding |
 | Production Bugs | 🟥🟥🟥🟥🟥⬛⬛⬛⬛⬛ `5/10` | ⚔️ Taking damage |
-| "Works on my machine" | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 `∞/∞` | 👹 UNKILLABLE |
+| "Works on my machine" | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 `10/10` | 👹 Still Alive |
 
 ---
 
