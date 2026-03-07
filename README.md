@@ -84,9 +84,9 @@ $ init Jax.exe
 
 | Boss | HP | Status |
 |---|---|---|
-| CSS Alignment | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 `10/10` | 💀 Still Alive |
-| Merge Conflicts | ���🟥🟥🟥🟥🟥🟥⬛⬛⬛ `7/10` | 🩸 Bleeding |
-| Production Bugs | 🟥🟥🟥🟥🟥⬛⬛⬛⬛⬛ `5/10` | ⚔️ Taking damage |
+| CSS Alignment         | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 `10/10` | 💀 Still Alive |
+| Merge Conflicts       | 🟥🟥🟥🟥🟥🟥⬛⬛⬛⬛ `7/10` | 🩸 Bleeding |
+| Production Bugs       | 🟥🟥🟥🟥🟥⬛⬛⬛⬛⬛ `5/10` | ⚔️ Taking damage |
 | "Works on my machine" | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 `∞/∞` | 👹 UNKILLABLE |
 
 ---
