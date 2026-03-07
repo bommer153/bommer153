@@ -8,12 +8,12 @@
 
 ```
 ╔══════════════════════════════════════════╗
-║  🎮  PLAYER  :  J A X                   ║
-║  ⚔️  CLASS   :  Fullstack Developer     ║
-║  🎨  SUBCLASS:  Frontend Developer      ║
-║  ❤️  MOTTO   :  Fullstack by heart      ║
-║  🏕️  HABITAT :  The Frontend Jungle     ║
-║  😭  CURSE   :  CSS Alignment           ║
+║  🎮  PLAYER   :  J A X                  ║
+║  ⚔️  CLASS    :  Fullstack Developer     ║
+║  🎨  SUBCLASS :  Frontend (by Fate 😭)  ║
+║  🏕️  HABITAT  :  The Backend Jungle      ║
+║  ☕  FUEL     :  Coffee (IV drip)        ║
+║  😤  NEMESIS  :  CSS Alignment           ║
 ╚══════════════════════════════════════════╝
 ```
 
@@ -21,38 +21,41 @@
 
 ## ⚔️ Skill Tree — *Currently Grinding*
 
-| Skill | Weapon | Level |
-|---|---|---|
-| React | 🗡️ | ![React](https://img.shields.io/badge/React-90%25-61DAFB?style=flat-square&logo=react&logoColor=black) |
-| TypeScript | 🛡️ | ![TypeScript](https://img.shields.io/badge/TypeScript-85%25-007ACC?style=flat-square&logo=typescript&logoColor=white) |
-| Laravel | ⚔️ | ![Laravel](https://img.shields.io/badge/Laravel-75%25-FF2D20?style=flat-square&logo=laravel&logoColor=white) |
-| CSS Alignment | 🧪 | ![CSS](https://img.shields.io/badge/CSS-40%25-FF4757?style=flat-square&logo=css3&logoColor=white) |
+| Skill         | Progress                                    |    SP    |
+|---------------|---------------------------------------------|----------|
+| React         | 🟦🟦🟦🟦🟦🟦🟦⬛⬛⬛ `7/10`           | `[+]`    |
+| Laravel       | 🟥🟥🟥🟥🟥🟥🟥🟥⬛⬛ `8/10`           | `[+]`    |
+| TypeScript    | 🟪🟪🟪🟪🟪🟪🟪⬛⬛⬛ `7/10`           | `[+]`    |
+| TailwindCSS   | 🟩🟩🟩🟩🟩🟩🟩⬛⬛⬛ `7/10`           | `[+]`    |
+| CSS Alignment | ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛ `0/10`           | `[+]`    |
+
+> 🎯 Skill Points Available: **`[ SP: 999 ]`** *(still won't help CSS Alignment)*
 
 ---
 
-
+## 🎒 Equipment
 
 ```
 ╔══════════════════════════════════════════════════════╗
 ║              🎒  E Q U I P M E N T                  ║
 ╠══════════════════════════════════════════════════════╣
-║  ⚔️  WEAPON      │  React          │  🟣 MYTHIC     ║
-║  ⚔️  OFF-HAND    │  TypeScript     │  🟡 LEGEND     ║
-║  🧙  SPELL       │  TailwindCSS    │  🟡 LEGEND     ║
+║  ⚔️  WEAPON      │  React          │  🟣 MYTHIC      ║
+║  ⚔️  OFF-HAND    │  TypeScript     │  🟡 LEGEND      ║
+║  🧙  SPELL       │  TailwindCSS    │  🟡 LEGEND      ║
 ╠══════════════════════════════════════════════════════╣
-║  🧥  ARMOR       │  Laravel        │  🟣 MYTHIC     ║
-║  🥾  BOOTS       │  Node.js        │  🟣 MYTHIC     ║
-║  🧤  GLOVES      │  Express        │  🔴 EPIC       ║
+║  🧥  ARMOR       │  Laravel        │  🟣 MYTHIC      ║
+║  🥾  BOOTS       │  Node.js        │  🟣 MYTHIC      ║
+║  🧤  GLOVES      │  Express        │  🔴 EPIC        ║
 ╠══════════════════════════════════════════════════════╣
-║  💍  RING        │  MySQL          │  🟡 LEGEND     ║
-║  📿  NECKLACE    │  MongoDB        │  🔴 EPIC       ║
+║  💍  RING        │  MySQL          │  🟡 LEGEND      ║
+║  📿  NECKLACE    │  MongoDB        │  🔴 EPIC        ║
 ╠══════════════════════════════════════════════════════╣
-║  🔧  TOOL 1      │  Git            │  🟣 MYTHIC     ║
-║  💻  TOOL 2      │  VS Code        │  🟡 LEGEND     ║
-║  📮  TOOL 3      │  Postman        │  🟡 LEGEND     ║
+║  🔧  TOOL 1      │  Git            │  🟣 MYTHIC      ║
+║  💻  TOOL 2      │  VS Code        │  🟡 LEGEND      ║
+║  📮  TOOL 3      │  Postman        │  🟡 LEGEND      ║
 ╠══════════════════════════════════════════════════════╣
-║  ☠️  CURSED ITEM │  CSS Alignment  │  💀 IMMORTAL   ║
-╚══════════════════════════════════════════════════════╝
+║  ☠️  CURSED ITEM │  CSS Alignment  │  💀 IMMORTAL    ║
+╚═══════════════════════════════════���══════════════════╝
 ```
 
 ---
@@ -64,9 +67,9 @@
 | Boss | HP | Status |
 |---|---|---|
 | CSS Alignment | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 `10/10` | 💀 Still Alive |
-| Merge Conflicts | 🟥🟥🟥🟥🟥🟥🟥⬛⬛⬛ `7/10` | 🩸 Bleeding |
+| Merge Conflicts | 🟥🟥🟥🟥🟥🟨🟨⬛⬛⬛ `7/10` | 🩸 Bleeding |
 | Production Bugs | 🟥🟥🟥🟥🟥⬛⬛⬛⬛⬛ `5/10` | ⚔️ Taking damage |
-| "Works on my machine" | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 `∞/∞` | 👹 UNKILLABLE |
+| "Works on my machine" | 🟥🟥🟥🟥🟥🟥🟦🟦🟦🟦 `∞/∞` | 👹 UNKILLABLE |
 
 ---
 
@@ -93,8 +96,8 @@
 
 ```
   🎮  Playing games         → Main stress reliever
-  📚  Learning new tech     → Procrastinating by being productive
-  🔄  Refactoring code      → That already worked fine
+  🍜  Watching anime        → Field Research (like Jiraiya sensei)
+  🏍️  Riding motorcycle     → Debugging IRL at 100km/h
   😭  Fighting CSS          → Ongoing. No end in sight.
 ```
 
