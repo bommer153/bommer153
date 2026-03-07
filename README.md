@@ -24,10 +24,10 @@
 
 | Skill | Progress | SP |
 |:---:|:---:|:---:|
-| React | 🟦🟦🟦🟦🟦🟦🟦🟦⬛⬛ `7/10` | ![SP](https://img.shields.io/badge/%20%2B%20-FF0000?style=for-the-badge&logo=plus&logoColor=white) |
-| Laravel | 🟥🟥🟥🟥🟥🟥🟥🟥⬛⬛ `8/10` | ![SP](https://img.shields.io/badge/%20%2B%20-FF0000?style=for-the-badge&logo=plus&logoColor=white) |
-| TypeScript | 🟪🟪🟪🟪🟪🟪🟪⬛⬛⬛ `7/10` | ![SP](https://img.shields.io/badge/%20%2B%20-FF0000?style=for-the-badge&logo=plus&logoColor=white) |
-| TailwindCSS | 🟩🟩🟩🟩🟩🟩🟩⬛⬛⬛ `7/10` | ![SP](https://img.shields.io/badge/%20%2B%20-FF0000?style=for-the-badge&logo=plus&logoColor=white) |
+| React | 🟦🟦🟦🟦🟦🟦⬛⬛⬛⬛ `6/10` | ![SP](https://img.shields.io/badge/%20%2B%20-FF0000?style=for-the-badge&logo=plus&logoColor=white) |
+| Laravel | 🟥🟥🟥🟥🟥🟥🟥⬛⬛⬛ `7/10` | ![SP](https://img.shields.io/badge/%20%2B%20-FF0000?style=for-the-badge&logo=plus&logoColor=white) |
+| TypeScript | 🟪🟪🟪🟪🟪🟪⬛⬛⬛⬛ `6/10` | ![SP](https://img.shields.io/badge/%20%2B%20-FF0000?style=for-the-badge&logo=plus&logoColor=white) |
+| TailwindCSS | 🟩🟩🟩🟩🟩🟩⬛⬛⬛⬛ `6/10` | ![SP](https://img.shields.io/badge/%20%2B%20-FF0000?style=for-the-badge&logo=plus&logoColor=white) |
 | CSS Alignment | ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛ `0/10` | ![SP](https://img.shields.io/badge/%20%2B%20-FF0000?style=for-the-badge&logo=plus&logoColor=white) |
 
 > 🎯 Skill Points Available: **`[ SP: 999 ]`** *(still won't help CSS Alignment)*
@@ -67,7 +67,7 @@
 | CSS Alignment | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 `10/10` | 💀 Still Alive |
 | Merge Conflicts | 🟥🟥🟥🟥🟥🟥🟥⬛⬛⬛ `7/10` | 🩸 Bleeding |
 | Production Bugs | 🟥🟥🟥🟥🟥⬛⬛⬛⬛⬛ `5/10` | ⚔️ Taking damage |
-| "Works on my machine" | 🟥🟥🟥🟥🟥🟠🟠🟠🟠🟠 `∞/∞` | 👹 UNKILLABLE |
+| "Works on my machine" | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 `∞/∞` | 👹 UNKILLABLE |
 
 ---
 
@@ -93,7 +93,7 @@
 
 ---
 
-*"I don't always fix bugs — but when I do, I create three more."*
+*"I don't always fix bugs, but when I do, I create three more."*
 
 ![Views](https://komarev.com/ghpvc/?username=bommer153&color=58A6FF&style=flat-square&label=Profile+Views)
 
