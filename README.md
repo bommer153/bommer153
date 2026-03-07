@@ -67,14 +67,14 @@
 | CSS Alignment | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 `10/10` | 💀 Still Alive |
 | Merge Conflicts | 🟥🟥🟥🟥🟥🟥🟥⬛⬛⬛ `7/10` | 🩸 Bleeding |
 | Production Bugs | 🟥🟥🟥🟥🟥⬛⬛⬛⬛⬛ `5/10` | ⚔️ Taking damage |
-| "Works on my machine" | 🟥🟥🟥🟥🟥🟥🟥🟥🟥 `∞/∞` | 👹 UNKILLABLE |
+| "Works on my machine" | 🟥🟥🟥🟥🟥🟠🟠🟠🟠🟠 `∞/∞` | 👹 UNKILLABLE |
 
 ---
 
 ## 🏆 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=bommer153&show_icons=true&theme=tokyonight&hide_border=true&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bommer153&layout=compact&theme=tokyonight&hide_border=true&title_color=58A6FF&count_private=true" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats-snowy-one-90.vercel.app/api?username=bommer153&show_icons=true&theme=tokyonight&hide_border=true&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats-snowy-one-90.vercel.app/api/top-langs/?username=bommer153&layout=compact&theme=tokyonight&hide_border=true&title_color=58A6FF&count_private=true" alt="Top Languages" height="165"/>
 
 <br/>
 
@@ -86,13 +86,10 @@
 
 *When I'm not coding:*
 
-
 <p>🎮  Playing games         → Main stress reliever</p>
 <p>🍜  Watching anime        → Field Research (like Jiraiya sensei)</p>
 <p>🏍️  Riding motorcycle     → Debugging IRL at 100km/h</p>
 <p>😭  Fighting CSS          → Ongoing. No end in sight.</p>
-
-
 
 ---
 
