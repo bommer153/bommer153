@@ -8,7 +8,7 @@
 
 | | |
 |:---:|:---:|
-| **— Profile —** | |
+| **— Profile —** |
 | ⚔️ Class : Fullstack Developer | 🎨 Subclass : Frontend (by Fate 😭) |
 | 🏕️ Habitat : The Backend Jungle | ☕ Fuel : Coffee (IV drip) |
 | 😤 Nemesis : CSS Alignment | |
