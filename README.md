@@ -10,9 +10,9 @@
 ╔══════════════════════════════════════════╗
 ║  🎮  PLAYER  :  J A X                   ║
 ║  ⚔️  CLASS   :  Fullstack Developer      ║
-║  🎨  SUBCLASS:  Frontend (assigned fate) ║
+║  🎨  SUBCLASS:  Frontend Developer       ║
 ║  ❤️  MOTTO   :  Fullstack by heart       ║
-║  🏕️  HABITAT :  The Backend Wilderness   ║
+║  🏕️  HABITAT :  The Frontend Jungle      ║
 ║  😭  CURSE   :  CSS Alignment            ║
 ╚══════════════════════════════════════════╝
 ```
@@ -27,9 +27,9 @@ $ init Jax.exe
 > Loading developer profile...
 > ██████████░░░░░░░░░░ 50%
 
-[ ✔ ] PHP/Laravel ............. loaded
-[ ✔ ] React + TypeScript ....... loaded
+[ ✔ ] React + TypeScript ....... MAIN WEAPONS 🗡️
 [ ✔ ] TailwindCSS .............. loaded
+[ ✔ ] PHP/Laravel .............. secondary
 [ ✔ ] Node.js / Express ........ loaded
 [ ✔ ] MySQL / MongoDB .......... loaded
 [ ✘ ] CSS Flexbox alignment .... still figuring it out
@@ -44,9 +44,9 @@ $ init Jax.exe
 
 | Skill | Weapon | Level |
 |---|---|---|
-| Laravel | ⚔️ | ![Laravel](https://img.shields.io/badge/Laravel-80%25-FF2D20?style=flat-square&logo=laravel&logoColor=white) |
-| React | 🧙 | ![React](https://img.shields.io/badge/React-70%25-61DAFB?style=flat-square&logo=react&logoColor=black) |
-| TypeScript | 🛡️ | ![TypeScript](https://img.shields.io/badge/TypeScript-60%25-007ACC?style=flat-square&logo=typescript&logoColor=white) |
+| React | 🗡️ | ![React](https://img.shields.io/badge/React-90%25-61DAFB?style=flat-square&logo=react&logoColor=black) |
+| TypeScript | 🛡️ | ![TypeScript](https://img.shields.io/badge/TypeScript-85%25-007ACC?style=flat-square&logo=typescript&logoColor=white) |
+| Laravel | ⚔️ | ![Laravel](https://img.shields.io/badge/Laravel-75%25-FF2D20?style=flat-square&logo=laravel&logoColor=white) |
 | CSS Alignment | 🧪 | ![CSS](https://img.shields.io/badge/CSS-40%25-FF4757?style=flat-square&logo=css3&logoColor=white) |
 
 ---
@@ -82,14 +82,12 @@ $ init Jax.exe
 
 > **Difficulty: LEGENDARY** 🔥
 
-```
-[ ACTIVE ENCOUNTERS ]
-
-  ☠  CSS Alignment         HP: ██████████  Still Alive
-  ☠  Merge Conflicts       HP: ███████░░░  Bleeding
-  ☠  Production Bugs       HP: █████░░░░░  Taking damage
-  ☠  "Works on my machine" HP: ████████░░  Unkillable
-```
+| Boss | HP | Status |
+|---|---|---|
+| CSS Alignment | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 `10/10` | 💀 Still Alive |
+| Merge Conflicts | ���🟥🟥🟥🟥🟥🟥⬛⬛⬛ `7/10` | 🩸 Bleeding |
+| Production Bugs | 🟥🟥🟥🟥🟥⬛⬛⬛⬛⬛ `5/10` | ⚔️ Taking damage |
+| "Works on my machine" | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 `∞/∞` | 👹 UNKILLABLE |
 
 ---
 
@@ -104,32 +102,9 @@ $ init Jax.exe
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=bommer153&theme=tokyonight&hide_border=true&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=bommer153&theme=tokyonight&hide_border=true&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak"/>
 
 </div>
-
----
-
-## 🐍 Contribution Snake
-
-> *Watch the snake eat my commits:*
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/bommer153/bommer153/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-## 🟩 XP Progress Bar
-
-```
-Commits this year  ████████████░░░░░░░░  LVL UP SOON
-Pull Requests      ████████░░░░░░░░░░░░  Grinding
-Code Reviews       ██████░░░░░░░░░░░░░░  Needs farming
-Issues Closed      ████████████████░░░░  Almost maxed
-```
 
 ---
 
