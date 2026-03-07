@@ -6,16 +6,18 @@
 
 ---
 
-```
-╔══════════════════════════════════════════╗
-║  🎮  PLAYER   :  J A X                  ║
-║  ⚔️  CLASS    :  Fullstack Developer     ║
-║  🎨  SUBCLASS :  Frontend (by Fate 😭)  ║
-║  🏕️  HABITAT  :  The Backend Jungle      ║
-║  ☕  FUEL     :  Coffee (IV drip)        ║
-║  😤  NEMESIS  :  CSS Alignment           ║
-╚══════════════════════════════════════════╝
-```
+## 🎮 Player
+
+| | |
+|---|---|
+| **J A X** | `Lv 99` |
+| ⚔️ Class | Fullstack Developer |
+| 🎨 Subclass | Frontend (by Fate 😭) |
+| 🏕️ Habitat | The Backend Jungle |
+| ☕ Fuel | Coffee (IV drip) |
+| 😤 Nemesis | CSS Alignment |
+| ❤️ HP | `800 / 1000` |
+| 💙 MP | `300 / 500` |
 
 ---
 
@@ -35,28 +37,35 @@
 
 ## 🎒 Equipment
 
-```
-╔══════════════════════════════════════════════════════╗
-║              🎒  E Q U I P M E N T                  ║
-╠══════════════════════════════════════════════════════╣
-║  ⚔️  WEAPON      │  React          │  🟣 MYTHIC      ║
-║  ⚔️  OFF-HAND    │  TypeScript     │  🟡 LEGEND      ║
-║  🧙  SPELL       │  TailwindCSS    │  🟡 LEGEND      ║
-╠══════════════════════════════════════════════════════╣
-║  🧥  ARMOR       │  Laravel        │  🟣 MYTHIC      ║
-║  🥾  BOOTS       │  Node.js        │  🟣 MYTHIC      ║
-║  🧤  GLOVES      │  Express        │  🔴 EPIC        ║
-╠══════════════════════════════════════════════════════╣
-║  💍  RING        │  MySQL          │  🟡 LEGEND      ║
-║  📿  NECKLACE    │  MongoDB        │  🔴 EPIC        ║
-╠══════════════════════════════════════════════════════╣
-║  🔧  TOOL 1      │  Git            │  🟣 MYTHIC      ║
-║  💻  TOOL 2      │  VS Code        │  🟡 LEGEND      ║
-║  📮  TOOL 3      │  Postman        │  🟡 LEGEND      ║
-╠══════════════════════════════════════════════════════╣
-║  ☠️  CURSED ITEM │  CSS Alignment  │  💀 IMMORTAL    ║
-╚═══════════════════════════════════���══════════════════╝
-```
+| Slot | Item | Grade | Stats |
+|---|---|---|---|
+| ⚔️ Weapon | React | 🟣 MYTHIC | `+90 DMG` `+50 SPD` |
+| ⚔️ Off-Hand | TypeScript | 🟡 LEGEND | `+85 DEF` `+40 INT` |
+| 🧙 Spell | TailwindCSS | 🟡 LEGEND | `+70 MGC` `+35 STY` |
+| 🧥 Armor | Laravel | 🟣 MYTHIC | `+95 DEF` `+60 RES` |
+| 🥾 Boots | Node.js | 🟣 MYTHIC | `+80 SPD` `+45 AGI` |
+| 🧤 Gloves | Express | 🔴 EPIC | `+60 ATK` `+30 DEX` |
+| 💍 Ring | MySQL | 🟡 LEGEND | `+70 INT` `+40 MEM` |
+| 📿 Necklace | MongoDB | 🔴 EPIC | `+55 INT` `+25 FLX` |
+| 🔧 Tool 1 | Git | 🟣 MYTHIC | `+99 VER` `+50 SAV` |
+| 💻 Tool 2 | VS Code | 🟡 LEGEND | `+80 EFF` `+45 DBG` |
+| 📮 Tool 3 | Postman | 🟡 LEGEND | `+75 API` `+40 TST` |
+| ☠️ Cursed | CSS Alignment | 💀 IMMORTAL | `-999 SAN` `+0 everything` |
+
+---
+
+## 📊 Player Stats
+
+| Stat | Value | |
+|---|---|---|
+| Max HP | 1000 | `→` |
+| Max MP | 500 | `→` |
+| Attack | 90 | `→` |
+| Defense | 75 | `→` |
+| M.Attack | 80 | `→` |
+| M.Defense | 60 | `→` |
+| Agility | 85 | `→` |
+| Luck | 20 | `→` *(CSS is cursed)* |
 
 ---
 
@@ -73,7 +82,7 @@
 
 ---
 
-## 📊 Player Stats
+## 🏆 GitHub Stats
 
 <div align="center">
 
