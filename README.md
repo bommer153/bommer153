@@ -8,12 +8,12 @@
 
 ```
 ╔══════════════════════════════════════════╗
-║  🎮  PLAYER  :  J A X                    ║
-║  ⚔️  CLASS   :  Fullstack Developer      ║
-║  🎨  SUBCLASS:  Frontend Developer       ║
-║  ❤️  MOTTO   :  Fullstack by heart       ║
-║  🏕️  HABITAT :  The Frontend Jungle      ║
-║  😭  CURSE   :  CSS Alignment            ║
+║  🎮  PLAYER  :  J A X                   ║
+║  ⚔️  CLASS   :  Fullstack Developer     ║
+║  🎨  SUBCLASS:  Frontend Developer      ║
+║  ❤️  MOTTO   :  Fullstack by heart      ║
+║  🏕️  HABITAT :  The Frontend Jungle     ║
+║  😭  CURSE   :  CSS Alignment           ║
 ╚══════════════════════════════════════════╝
 ```
 
@@ -30,28 +30,28 @@
 
 ---
 
-## 🎒 Equipment
+
 
 ```
 ╔══════════════════════════════════════════════════════╗
 ║              🎒  E Q U I P M E N T                  ║
 ╠══════════════════════════════════════════════════════╣
-║  ⚔️  WEAPON      │  React          │  🟣 MYTHIC      ║
-║  ⚔️  OFF-HAND    │  TypeScript     │  🟡 LEGEND      ║
-║  🧙  SPELL       │  TailwindCSS    │  🟡 LEGEND      ║
+║  ⚔️  WEAPON      │  React          │  🟣 MYTHIC     ║
+║  ⚔️  OFF-HAND    │  TypeScript     │  🟡 LEGEND     ║
+║  🧙  SPELL       │  TailwindCSS    │  🟡 LEGEND     ║
 ╠══════════════════════════════════════════════════════╣
-║  🧥  ARMOR       │  Laravel        │  🟣 MYTHIC      ║
-║  🥾  BOOTS       │  Node.js        │  🟣 MYTHIC      ║
-║  🧤  GLOVES      │  Express        │  🔴 EPIC        ║
+║  🧥  ARMOR       │  Laravel        │  🟣 MYTHIC     ║
+║  🥾  BOOTS       │  Node.js        │  🟣 MYTHIC     ║
+║  🧤  GLOVES      │  Express        │  🔴 EPIC       ║
 ╠══════════════════════════════════════════════════════╣
-║  💍  RING        │  MySQL          │  🟡 LEGEND      ║
-║  📿  NECKLACE    │  MongoDB        │  🔴 EPIC        ║
+║  💍  RING        │  MySQL          │  🟡 LEGEND     ║
+║  📿  NECKLACE    │  MongoDB        │  🔴 EPIC       ║
 ╠══════════════════════════════════════════════════════╣
-║  🔧  TOOL 1      │  Git            │  🟣 MYTHIC      ║
-║  💻  TOOL 2      │  VS Code        │  🟡 LEGEND      ║
-║  📮  TOOL 3      │  Postman        │  🟡 LEGEND      ║
+║  🔧  TOOL 1      │  Git            │  🟣 MYTHIC     ║
+║  💻  TOOL 2      │  VS Code        │  🟡 LEGEND     ║
+║  📮  TOOL 3      │  Postman        │  🟡 LEGEND     ║
 ╠══════════════════════════════════════════════════════╣
-║  ☠️  CURSED ITEM │  CSS Alignment  │  💀 IMMORTAL    ║
+║  ☠️  CURSED ITEM │  CSS Alignment  │  💀 IMMORTAL   ║
 ╚══════════════════════════════════════════════════════╝
 ```
 
