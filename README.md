@@ -60,7 +60,7 @@
 
 ## ☠️ Current Boss Fights
 
-> **Difficulty: LEGENDARY** 🔥
+> **Difficulty: HELL MODE** 🔥
 
 | Boss | HP | Status |
 |:---:|:---:|:---:|
