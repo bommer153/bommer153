@@ -1,15 +1,10 @@
 <div align="center">
 
-<!-- Typing Header Animation -->
-<a href="https://github.com/bommer153">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Fullstack+by+heart+%E2%9D%A4%EF%B8%8F;Frontend+by+fate+%F0%9F%8E%A8;Backend+is+my+natural+habitat+%F0%9F%8F%95%EF%B8%8F;CSS+is+my+punishment+%F0%9F%98%AD" alt="Typing SVG" />
-</a>
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" alt="coding monkey"/>
 
 </div>
 
 ---
-
-## 🎮 Player Card
 
 ```
 ╔══════════════════════════════════════════╗
@@ -49,10 +44,10 @@ $ init Jax.exe
 
 | Skill | Weapon | Level |
 |---|---|---|
-| Laravel | ⚔️ Backend Sword | `████████░░` 80% |
-| React | 🧙 Frontend Magic | `███████░░░` 70% |
-| TypeScript | 🛡️ Defensive Spells | `██████░░░░` 60% |
-| CSS Alignment | 🧪 Mini-boss | `████░░░░░░` 40% |
+| Laravel | ⚔️ | ![Laravel](https://img.shields.io/badge/Laravel-80%25-FF2D20?style=flat-square&logo=laravel&logoColor=white) |
+| React | 🧙 | ![React](https://img.shields.io/badge/React-70%25-61DAFB?style=flat-square&logo=react&logoColor=black) |
+| TypeScript | 🛡️ | ![TypeScript](https://img.shields.io/badge/TypeScript-60%25-007ACC?style=flat-square&logo=typescript&logoColor=white) |
+| CSS Alignment | 🧪 | ![CSS](https://img.shields.io/badge/CSS-40%25-FF4757?style=flat-square&logo=css3&logoColor=white) |
 
 ---
 
@@ -143,31 +138,18 @@ Issues Closed      ████████████████░░░░ 
 *When I'm not coding:*
 
 ```
-  🎮  Playing games          
-  📚  Learning new tech       
-  🔄  Refactoring things     
-  😭  Fighting CSS           
-```
-
----
-
-## 🗺️ Next Quest
-
-```
-┌─────────────────────────────────────────┐
-│  🎯  NEXT BOSS:  CSS Grid Mastery       │
-│  📍  LOCATION :  Frontend Dungeon       │
-│  ⚡  REWARD   :  Pixel-perfect layouts  │
-│  💀  RISK     :  Sanity -50             │
-└─────────────────────────────────────────┘
+  🎮  Playing games         → Main stress reliever
+  📚  Learning new tech     → Procrastinating by being productive
+  🔄  Refactoring code      → That already worked fine
+  😭  Fighting CSS          → Ongoing. No end in sight.
 ```
 
 ---
 
 <div align="center">
 
-*"I don't always fix bugs, but when I do, I create three more."*
+*"I don't always fix bugs — but when I do, I create three more."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=bommer153&color=58A6FF&style=flat-square&label=Profile+Views)
+![Views](https://komarev.com/ghpvc/?username=bommer153&color=58A6FF&style=flat-square&label=Profile+Views)
 
 </div>
