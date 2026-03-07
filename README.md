@@ -8,7 +8,7 @@
 
 ```
 ╔══════════════════════════════════════════╗
-║  🎮  PLAYER  :  J A X                   ║
+║  🎮  PLAYER  :  J A X                    ║
 ║  ⚔️  CLASS   :  Fullstack Developer      ║
 ║  🎨  SUBCLASS:  Frontend Developer       ║
 ║  ❤️  MOTTO   :  Fullstack by heart       ║
@@ -51,7 +51,8 @@
 ║  💻  TOOL 2      │  VS Code        │  🟡 LEGEND      ║
 ║  📮  TOOL 3      │  Postman        │  🟡 LEGEND      ║
 ╠══════════════════════════════════════════════════════╣
-║  ☠️  CURSED ITEM │  CSS Alignment  │  💀 IMMORTAL    ╚══════════════════════════════════════════════════════╝
+║  ☠️  CURSED ITEM │  CSS Alignment  │  💀 IMMORTAL    ║
+╚══════════════════════════════════════════════════════╝
 ```
 
 ---
