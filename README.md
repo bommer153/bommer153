@@ -85,14 +85,14 @@
 ## 🎮 Side Quests
 
 *When I'm not coding:*
-<div align="left">
-```
+
+
 🎮  Playing games         → Main stress reliever
 🍜  Watching anime        → Field Research (like Jiraiya sensei)
 🏍️  Riding motorcycle     → Debugging IRL at 100km/h
 😭  Fighting CSS          → Ongoing. No end in sight.
-```
-</div>
+
+
 
 ---
 
