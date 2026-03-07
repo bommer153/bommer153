@@ -24,11 +24,11 @@
 
 | Skill | Progress | SP |
 |:---:|:---:|:---:|
-| React | 🟦🟦🟦🟦🟦🟦🟦🟦⬛⬛ `7/10` | ![SP](https://img.shields.io/badge/SP-%2B1-blue) |
-| Laravel | 🟥🟥🟥🟥🟥🟥🟥🟥⬛⬛ `8/10` | ![SP](https://img.shields.io/badge/SP-%2B1-blue) |
-| TypeScript | 🟪🟪🟪🟪🟪🟪🟪⬛⬛⬛ `7/10` | ![SP](https://img.shields.io/badge/SP-%2B1-blue) |
-| TailwindCSS | 🟩🟩🟩🟩🟩🟩🟩⬛⬛⬛ `7/10` | ![SP](https://img.shields.io/badge/SP-%2B1-blue) |
-| CSS Alignment | ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛ `0/10` | ![SP](https://img.shields.io/badge/SP-%2B1-blue) |
+| React | 🟦🟦🟦🟦🟦🟦🟦🟦⬛⬛ `7/10` | ![SP](https://img.shields.io/badge/%20%2B%20-FF0000?style=for-the-badge&logo=plus&logoColor=white) |
+| Laravel | 🟥🟥🟥🟥🟥🟥🟥🟥⬛⬛ `8/10` | ![SP](https://img.shields.io/badge/%20%2B%20-FF0000?style=for-the-badge&logo=plus&logoColor=white) |
+| TypeScript | 🟪🟪🟪🟪🟪🟪🟪⬛⬛⬛ `7/10` | ![SP](https://img.shields.io/badge/%20%2B%20-FF0000?style=for-the-badge&logo=plus&logoColor=white) |
+| TailwindCSS | 🟩🟩🟩🟩🟩🟩🟩⬛⬛⬛ `7/10` | ![SP](https://img.shields.io/badge/%20%2B%20-FF0000?style=for-the-badge&logo=plus&logoColor=white) |
+| CSS Alignment | ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛ `0/10` | ![SP](https://img.shields.io/badge/%20%2B%20-FF0000?style=for-the-badge&logo=plus&logoColor=white) |
 
 > 🎯 Skill Points Available: **`[ SP: 999 ]`** *(still won't help CSS Alignment)*
 
