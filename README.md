@@ -42,15 +42,15 @@
 
 ## 🎒 Equipment — Loadout
 
-| Slot | Item | Type | Stats |
+| Slot | Item | Stats |
 |:---:|:---:|:---:|:---:|
-| ⚔️ Main Weapon | ![React](https://img.shields.io/badge/React-8B5CF6?style=for-the-badge&logo=react&logoColor=white) | Frontend Blade | `✨ +3 Component Mastery` |
-| 🛡️ Off-Hand | ![TypeScript](https://img.shields.io/badge/TypeScript-F59E0B?style=for-the-badge&logo=typescript&logoColor=white) | Type Shield | `✨ +2 Type Safety` |
-| 🧥 Armor | ![Laravel](https://img.shields.io/badge/Laravel-8B5CF6?style=for-the-badge&logo=laravel&logoColor=white) | Backend Plate | `✨ +3 Backend Shield` |
-| 👟 Boots | ![Node.js](https://img.shields.io/badge/Node.js-8B5CF6?style=for-the-badge&logo=nodedotjs&logoColor=white) | Runtime Boots | `✨ +3 Async Speed` |
-| 🎨 Cape | ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-F59E0B?style=for-the-badge&logo=tailwindcss&logoColor=white) | Style Cloak | `✨ +2 Utility Sorcery` |
-| 💍 Ring | ![MySQL](https://img.shields.io/badge/MySQL-F59E0B?style=for-the-badge&logo=mysql&logoColor=white) | Data Ring | `✨ +2 Query Power` |
-| ☠️ Cursed Relic | ![CSS](https://img.shields.io/badge/CSS_Alignment-1F1F1F?style=for-the-badge&logo=css3&logoColor=white) | Unknown Origin | `💀 -999 SAN` |
+| ⚔️ Main Weapon | ![React](https://img.shields.io/badge/React-8B5CF6?style=for-the-badge&logo=react&logoColor=white) | `✨ +3 Component Mastery` |
+| 🛡️ Off-Hand | ![TypeScript](https://img.shields.io/badge/TypeScript-F59E0B?style=for-the-badge&logo=typescript&logoColor=white) | `✨ +2 Type Safety` |
+| 🧥 Armor | ![Laravel](https://img.shields.io/badge/Laravel-8B5CF6?style=for-the-badge&logo=laravel&logoColor=white) | `✨ +3 Backend Shield` |
+| 👟 Boots | ![Node.js](https://img.shields.io/badge/Node.js-8B5CF6?style=for-the-badge&logo=nodedotjs&logoColor=white) | `✨ +3 Async Speed` |
+| 🎨 Cape | ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-F59E0B?style=for-the-badge&logo=tailwindcss&logoColor=white)| `✨ +2 Utility Sorcery` |
+| 💍 Ring | ![MySQL](https://img.shields.io/badge/MySQL-F59E0B?style=for-the-badge&logo=mysql&logoColor=white) | `✨ +2 Query Power` |
+| ☠️ Cursed Relic | ![CSS](https://img.shields.io/badge/CSS_Alignment-1F1F1F?style=for-the-badge&logo=css3&logoColor=white) | `💀 -999 SAN` |
 
 </td>
 </tr>
