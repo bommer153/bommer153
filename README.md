@@ -57,19 +57,6 @@
 
 ---
 
-## ☠️ Current Boss Fights
-
-> **Difficulty: HELL MODE** 🔥
-
-| Boss | HP | Status |
-|:---:|:---:|:---:|
-| CSS Alignment | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 `∞/∞` | 👹 UNKILLABLE |
-| Merge Conflicts | 🟥🟥🟥🟥🟥🟥🟥⬛⬛⬛ `7/10` | 🩸 Bleeding |
-| Production Bugs | 🟥🟥🟥🟥🟥⬛⬛⬛⬛⬛ `5/10` | ⚔️ Taking damage |
-| "Works on my machine" | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 `10/10` | 💀 Still Alive |
-
----
-
 ## 🏆 GitHub Stats
 
 <img src="https://github-readme-stats-snowy-one-90.vercel.app/api?username=bommer153&show_icons=true&theme=tokyonight&hide_border=true&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" height="165"/>
