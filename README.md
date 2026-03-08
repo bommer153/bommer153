@@ -79,16 +79,37 @@
 
 ## 🎮 Side Quests
 
-*When I'm not coding:*
-
-<p>🎮  Playing games         → Main stress reliever</p>
-<p>🍜  Watching anime        → Field Research (like Jiraiya sensei)</p>
-<p>🏍️  Riding motorcycle     → Debugging IRL at 100km/h</p>
-<p>😭  Fighting CSS          → Ongoing. No end in sight.</p>
+```
+📜 ═══════════════════════════════════════════
+   
+   📋  [ ACTIVE QUESTS — When not coding ]
+   
+   ══════════════════════════════════════════
+   
+   🎮  Playing games      →  Main stress reliever
+   
+   🍜  Watching anime     →  Field Research
+                              (like Jiraiya sensei)
+   
+   🏍️  Riding motorcycle  →  Debugging IRL at 100km/h
+   
+   😭  Fighting CSS       →  Ongoing. No end in sight.
+   
+📜 ═══════════════════════════════════════════
+```
 
 ---
 
+## 📬 Contact
+
 *"I don't always fix bugs, but when I do, I create three more."*
+
+<br/>
+
+[![Email](https://img.shields.io/badge/Email-jaxjalandoon%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaxjalandoon@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jefferson%20Jalandoon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-jalandoon-61669427a/)
+
+<br/>
 
 ![Views](https://komarev.com/ghpvc/?username=bommer153&color=58A6FF&style=flat-square&label=Profile+Views)
 
