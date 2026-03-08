@@ -20,6 +20,10 @@
 
 ---
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ## ⚔️ Skill Tree — *Currently Grinding*
 
 | Skill | Progress | SP |
@@ -30,9 +34,11 @@
 | TailwindCSS | 🟩🟩🟩🟩🟩🟩⬛⬛⬛⬛ `6/10` | ![SP](https://img.shields.io/badge/%20%2B%20-FF0000?style=for-the-badge&logo=plus&logoColor=white) |
 | CSS Alignment | ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛ `0/10` | ![SP](https://img.shields.io/badge/%20%2B%20-FF0000?style=for-the-badge&logo=plus&logoColor=white) |
 
-> 🎯 Skill Points Available: **`[ SP: 999 ]`** *(still won't help CSS Alignment)*
+> 🎯 Skill Points Available: **`[ SP: 999 ]`**
 
----
+</td>
+
+<td width="50%" valign="top">
 
 ## 🎒 Equipment — Loadout
 
@@ -44,12 +50,17 @@
 | 👟 Boots | ![Node.js](https://img.shields.io/badge/Node.js-8B5CF6?style=for-the-badge&logo=nodedotjs&logoColor=white) | Runtime Boots | `✨ +3 Async Speed` |
 | 🎨 Cape | ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-F59E0B?style=for-the-badge&logo=tailwindcss&logoColor=white) | Style Cloak | `✨ +2 Utility Sorcery` |
 | 💍 Ring | ![MySQL](https://img.shields.io/badge/MySQL-F59E0B?style=for-the-badge&logo=mysql&logoColor=white) | Data Ring | `✨ +2 Query Power` |
-| 📿 Amulet | ![MongoDB](https://img.shields.io/badge/MongoDB-EF4444?style=for-the-badge&logo=mongodb&logoColor=white) | NoSQL Charm | `✨ +1 Schema Freedom` |
-| 🗡️ Dagger | ![Express](https://img.shields.io/badge/Express-EF4444?style=for-the-badge&logo=express&logoColor=white) | Route Blade | `✨ +2 Route Handling` |
-| 🧰 Tool Belt | ![Git](https://img.shields.io/badge/Git-8B5CF6?style=for-the-badge&logo=git&logoColor=white) ![VSCode](https://img.shields.io/badge/VS_Code-8B5CF6?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-8B5CF6?style=for-the-badge&logo=postman&logoColor=white) | Dev Kit | `✨ +3 Time Travel` `✨ +2 IntelliSense` `✨ +2 Endpoint Whisperer` |
-| ☠️ Cursed Relic | ![CSS](https://img.shields.io/badge/CSS_Alignment-1F1F1F?style=for-the-badge&logo=css3&logoColor=white) | Unknown Origin | `💀 -999 SAN` `+0 everything` |
+| ☠️ Cursed Relic | ![CSS](https://img.shields.io/badge/CSS_Alignment-1F1F1F?style=for-the-badge&logo=css3&logoColor=white) | Unknown Origin | `💀 -999 SAN` |
 
-> 🎨 Badge color = Item Tier &nbsp;|&nbsp; 🟣 `Purple` = MYTHIC &nbsp;|&nbsp; 🟡 `Gold` = LEGEND &nbsp;|&nbsp; 🔴 `Red` = EPIC &nbsp;|&nbsp; 💀 `Black` = IMMORTAL
+</td>
+</tr>
+</table>
+
+---
+
+
+
+
 
 ---
 
