@@ -16,7 +16,7 @@
 | ❤️ HP : `const hp = 800` | 💙 MP : `let mp = 300` |
 | ⚔️ Attack : `dmg = 90` | 🛡️ Defense : `def = 75` |
 | 🔮 M.Attack : `magic = 80` | 💨 Agility : `spd = 85` |
-| 🌀 M.Defense : `mdef = 60` | 🍀 Luck : `luck = 20 // cursed by CSS` |
+| 🌀 M.Defense : `mdef = 60` | 🍀 Luck : `luck = -20` |
 
 ---
 
@@ -32,7 +32,6 @@
 | Laravel | 🟥🟥🟥🟥🟥🟥🟥⬛⬛⬛ `7/10` | ![SP](https://img.shields.io/badge/%20%2B%20-FF0000?style=for-the-badge&logo=plus&logoColor=white) |
 | TypeScript | 🟪🟪🟪🟪🟪🟪⬛⬛⬛⬛ `6/10` | ![SP](https://img.shields.io/badge/%20%2B%20-FF0000?style=for-the-badge&logo=plus&logoColor=white) |
 | TailwindCSS | 🟩🟩🟩🟩🟩🟩⬛⬛⬛⬛ `6/10` | ![SP](https://img.shields.io/badge/%20%2B%20-FF0000?style=for-the-badge&logo=plus&logoColor=white) |
-| CSS Alignment | ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛ `0/10` | ![SP](https://img.shields.io/badge/%20%2B%20-FF0000?style=for-the-badge&logo=plus&logoColor=white) |
 
 > 🎯 Skill Points Available: **`[ SP: 999 ]`**
 
@@ -87,7 +86,6 @@
 > 🎮 **Playing games** → Main stress reliever  
 > 🍜 **Watching anime** → Field research *(Jiraiya sensei approved)*  
 > 🏍️ **Riding motorcycle** → Debugging IRL at **100km/h**  
-> 😭 **Fighting CSS** → *Ongoing quest… no end in sight*
 
 ---
 
