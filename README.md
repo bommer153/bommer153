@@ -24,7 +24,7 @@
 <tr>
 <td width="50%" valign="top">
 
-## ⚔️ Skill Tree — *Currently Grinding*
+## ⚔️ Skill Tree *Currently Grinding*
 
 | Skill | Progress | SP |
 |:---:|:---:|:---:|
@@ -40,7 +40,7 @@
 
 <td width="50%" valign="top">
 
-## 🎒 Equipment — Loadout
+## 🎒 Equipment Loadout
 
 | Slot | Item | Stats |
 |:---:|:---:|:---:|
@@ -98,8 +98,6 @@
 ---
 
 ## 📬 Contact
-
-*"I don't always fix bugs, but when I do, I create three more."*
 
 <br/>
 
