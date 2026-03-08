@@ -4,7 +4,7 @@
 
 ---
 
-## 🎮 Player — **A r k ~** `Lv 99`
+## 🎮 Player :: **A r k ~** `Lv 99`
 
 | | |
 |:---:|:---:|
@@ -82,7 +82,7 @@
 
 ---
 
-## 📜 Side Quests — *When I'm not coding*
+## 📜 Side Quests :: *When I'm not coding*
 
 > 🎮 **Playing games** → Main stress reliever  
 > 🍜 **Watching anime** → Field research *(Jiraiya sensei approved)*  
