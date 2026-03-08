@@ -34,27 +34,22 @@
 
 ---
 
-## 🎒 Equipment
+## 🎒 Equipment — Loadout
 
-| Slot | Item | Grade | Stats | Enchant |
-|:---:|:---:|:---:|:---:|:---:|
-| ⚔️ **— Weapons —** | | | | |
-| ⚔️ Weapon | React | 🟣 MYTHIC | `+90 DMG` `+50 SPD` | `✨ +3 Component Mastery` |
-| ⚔️ Off-Hand | TypeScript | 🟡 LEGEND | `+85 DEF` `+40 INT` | `✨ +2 Type Safety` |
-| 🧙 Spell | TailwindCSS | 🟡 LEGEND | `+70 MGC` `+35 STY` | `✨ +2 Utility Sorcery` |
-| 🧥 **— Armor —** | | | | |
-| 🧥 Armor | Laravel | 🟣 MYTHIC | `+95 DEF` `+60 RES` | `✨ +3 Backend Shield` |
-| 🥾 Boots | Node.js | 🟣 MYTHIC | `+80 SPD` `+45 AGI` | `✨ +3 Async Speed` |
-| 🧤 Gloves | Express | 🔴 EPIC | `+60 ATK` `+30 DEX` | `✨ +2 Route Handling` |
-| 💍 **— Accessories —** | | | | |
-| 💍 Ring | MySQL | 🟡 LEGEND | `+70 INT` `+40 MEM` | `✨ +2 Query Power` |
-| 📿 Necklace | MongoDB | 🔴 EPIC | `+55 INT` `+25 FLX` | `✨ +1 Schema Freedom` |
-| 🔧 **— Tools —** | | | | |
-| 🔧 Tool 1 | Git | 🟣 MYTHIC | `+99 VER` `+50 SAV` | `✨ +3 Time Travel` |
-| 💻 Tool 2 | VS Code | 🟡 LEGEND | `+80 EFF` `+45 DBG` | `✨ +2 IntelliSense` |
-| 📮 Tool 3 | Postman | 🟡 LEGEND | `+75 API` `+40 TST` | `✨ +2 Endpoint Whisperer` |
-| ☠️ **— Cursed —** | | | | |
-| ☠️ Cursed | CSS Alignment | 💀 IMMORTAL | `-999 SAN` `+0 everything` | `💀 Cannot be removed` |
+| Slot | Item | Type | Stats |
+|:---:|:---:|:---:|:---:|
+| ⚔️ Main Weapon | ![React](https://img.shields.io/badge/React-8B5CF6?style=for-the-badge&logo=react&logoColor=white) | Frontend Blade | `✨ +3 Component Mastery` |
+| 🛡️ Off-Hand | ![TypeScript](https://img.shields.io/badge/TypeScript-F59E0B?style=for-the-badge&logo=typescript&logoColor=white) | Type Shield | `✨ +2 Type Safety` |
+| 🧥 Armor | ![Laravel](https://img.shields.io/badge/Laravel-8B5CF6?style=for-the-badge&logo=laravel&logoColor=white) | Backend Plate | `✨ +3 Backend Shield` |
+| 👟 Boots | ![Node.js](https://img.shields.io/badge/Node.js-8B5CF6?style=for-the-badge&logo=nodedotjs&logoColor=white) | Runtime Boots | `✨ +3 Async Speed` |
+| 🎨 Cape | ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-F59E0B?style=for-the-badge&logo=tailwindcss&logoColor=white) | Style Cloak | `✨ +2 Utility Sorcery` |
+| 💍 Ring | ![MySQL](https://img.shields.io/badge/MySQL-F59E0B?style=for-the-badge&logo=mysql&logoColor=white) | Data Ring | `✨ +2 Query Power` |
+| 📿 Amulet | ![MongoDB](https://img.shields.io/badge/MongoDB-EF4444?style=for-the-badge&logo=mongodb&logoColor=white) | NoSQL Charm | `✨ +1 Schema Freedom` |
+| 🗡️ Dagger | ![Express](https://img.shields.io/badge/Express-EF4444?style=for-the-badge&logo=express&logoColor=white) | Route Blade | `✨ +2 Route Handling` |
+| 🧰 Tool Belt | ![Git](https://img.shields.io/badge/Git-8B5CF6?style=for-the-badge&logo=git&logoColor=white) ![VSCode](https://img.shields.io/badge/VS_Code-8B5CF6?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-8B5CF6?style=for-the-badge&logo=postman&logoColor=white) | Dev Kit | `✨ +3 Time Travel` `✨ +2 IntelliSense` `✨ +2 Endpoint Whisperer` |
+| ☠️ Cursed Relic | ![CSS](https://img.shields.io/badge/CSS_Alignment-1F1F1F?style=for-the-badge&logo=css3&logoColor=white) | Unknown Origin | `💀 -999 SAN` `+0 everything` |
+
+> 🎨 Badge color = Item Tier &nbsp;|&nbsp; 🟣 `Purple` = MYTHIC &nbsp;|&nbsp; 🟡 `Gold` = LEGEND &nbsp;|&nbsp; 🔴 `Red` = EPIC &nbsp;|&nbsp; 💀 `Black` = IMMORTAL
 
 ---
 
