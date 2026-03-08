@@ -88,14 +88,12 @@
 
 ---
 
-## 📜 Side Quests
+## 📜 Side Quests — *When I'm not coding*
 
-> ⚔️ **Optional Missions Discovered**
->
-> 🎮 `+10 SAN` Playing Games  
-> 🍜 `+5 Wisdom` Watching Anime *(Jiraiya research arc)*  
-> 🏍️ `+3 Speed` Riding Motorcycle  
-> 😭 `-999 SAN` Fighting CSS Alignment
+> 🎮 **Playing games** → Main stress reliever  
+> 🍜 **Watching anime** → Field research *(Jiraiya sensei approved)*  
+> 🏍️ **Riding motorcycle** → Debugging IRL at **100km/h**  
+> 😭 **Fighting CSS** → *Ongoing quest… no end in sight*
 
 ---
 
