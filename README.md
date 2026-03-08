@@ -43,7 +43,7 @@
 ## 🎒 Equipment — Loadout
 
 | Slot | Item | Stats |
-|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|
 | ⚔️ Main Weapon | ![React](https://img.shields.io/badge/React-8B5CF6?style=for-the-badge&logo=react&logoColor=white) | `✨ +3 Component Mastery` |
 | 🛡️ Off-Hand | ![TypeScript](https://img.shields.io/badge/TypeScript-F59E0B?style=for-the-badge&logo=typescript&logoColor=white) | `✨ +2 Type Safety` |
 | 🧥 Armor | ![Laravel](https://img.shields.io/badge/Laravel-8B5CF6?style=for-the-badge&logo=laravel&logoColor=white) | `✨ +3 Backend Shield` |
