@@ -88,26 +88,14 @@
 
 ---
 
-## 🎮 Side Quests
+## 📜 Side Quests
 
-```
-📜 ═══════════════════════════════════════════
-   
-   📋  [ ACTIVE QUESTS — When not coding ]
-   
-   ══════════════════════════════════════════
-   
-   🎮  Playing games      →  Main stress reliever
-   
-   🍜  Watching anime     →  Field Research
-                              (like Jiraiya sensei)
-   
-   🏍️  Riding motorcycle  →  Debugging IRL at 100km/h
-   
-   😭  Fighting CSS       →  Ongoing. No end in sight.
-   
-📜 ═══════════════════════════════════════════
-```
+> ⚔️ **Optional Missions Discovered**
+>
+> 🎮 `+10 SAN` Playing Games  
+> 🍜 `+5 Wisdom` Watching Anime *(Jiraiya research arc)*  
+> 🏍️ `+3 Speed` Riding Motorcycle  
+> 😭 `-999 SAN` Fighting CSS Alignment
 
 ---
 
