@@ -58,12 +58,6 @@
 
 ---
 
-
-
-
-
----
-
 ## ☠️ Current Boss Fights
 
 > **Difficulty: HELL MODE** 🔥
