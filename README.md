@@ -10,7 +10,7 @@
 |:---:|:---:|
 | **— Profile —** |
 | ⚔️ Class : Fullstack Developer | 🎨 Subclass : Frontend (by Fate 😭) |
-| 🏕️ Habitat : The Backend Jungle | ☕ Fuel : Coffee (IV drip) |
+| 🏕️ Habitat : Visual Studio Jungle | ☕ Fuel : Coffee (IV drip) |
 | 😤 Nemesis : CSS Alignment | |
 | **— Stats —** | |
 | ❤️ HP : `const hp = 800` | 💙 MP : `let mp = 300` |
