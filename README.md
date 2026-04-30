@@ -9,7 +9,7 @@
 | | |
 |:---:|:---:|
 | **— Profile —** |
-| ⚔️ Class : Fullstack Developer | 🎨 Subclass : Frontend (by Fate 😭) |
+| ⚔️ Class : Fullstack Developer | 🎨 Subclass : Frontend (by Fate) |
 | 🏕️ Habitat : Visual Studio Jungle | ☕ Fuel : Coffee (IV drip) |
 | 😤 Nemesis : CSS Alignment | |
 | **— Stats —** | |
