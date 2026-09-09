@@ -1,6 +1,6 @@
 # Kumusta Ka? 👋
 
-I'm **Jefferson B. Jalandoon**, a **Full Stack Developer** focused on building reliable, scalable, and user-friendly web applications.
+I'm **Jefferson B. Jalandoon**, a **Full Stack Developer** with 3 years exp focused on building reliable, scalable, and user-friendly web applications.
 
 I primarily work with **React, TypeScript, Laravel, PHP, and microservices**, with experience building applications from frontend interfaces to backend APIs and production-ready systems.
 
