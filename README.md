@@ -22,15 +22,6 @@ I enjoy solving complex problems, working with application logic, and turning id
 ---
 
 
-
-### 🎯 My philosophy
-
-> **Build. Break. Learn. Improve.**
-
-I enjoy understanding how things work under the hood and turning complicated problems into simple, practical solutions.
-
----
-
 ### 🌐 Let's connect!
 
 I'm always open to talking about **software development, technology, projects, anime, games, or random ideas**.
