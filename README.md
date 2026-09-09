@@ -17,7 +17,6 @@ I enjoy solving complex problems, working with application logic, and turning id
 - ⚛️ Modern React applications
 - 🔗 REST APIs & microservices
 - 🏗️ Full-stack Laravel applications
-- 📊 Data-driven applications
 - 🎮 Small games and side projects
 
 ---
