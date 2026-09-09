@@ -10,7 +10,7 @@ I enjoy solving complex problems, working with application logic, and turning id
 
 ### 🚀 I enjoy working with:
 
-`PHP` `Laravel` `React` `TypeScript` `JavaScript` `Node.js` `Express` `MySQL` `MongoDB` `SWR` `TailwindCSS` `Vite` `Docker` `Git`
+`PHP` `Laravel` `React` `TypeScript` `JavaScript` `Node.js` `Express` `MySQL` `MongoDB` `SWR` `TailwindCSS` `Vite` `Git`
 
 ### 🧩 What I like building
 
